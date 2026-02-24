@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numWaterBottles(int numBottles, int numExchange) {
-        // It is perfectly okay to create these variables!
+        
         int totalDrunk = numBottles; 
         int currentEmpty = numBottles; 
         
